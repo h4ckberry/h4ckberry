@@ -9,9 +9,3 @@ Software Engineer
   - [techblog-content](https://github.com/h4ckberry/techblog-content)
 
 ---
-
-```mermaid
-graph LR
-    resume-data -.-> portfolio
-    techblog-content -.-> techblog
-```
