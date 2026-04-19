@@ -1,16 +1,17 @@
-## Hi there 👋
+# h4ckberry
+Software Engineer
 
-<!--
-**h4ckberry/h4ckberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **App**
+  - [portfolio](https://github.com/h4ckberry/portfolio)
+  - [techblog](https://github.com/h4ckberry/techblog)
+- **Source (Private)**
+  - [resume-data](https://github.com/h4ckberry/resume-data)
+  - [techblog-content](https://github.com/h4ckberry/techblog-content)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```mermaid
+graph LR
+    resume-data -.-> portfolio
+    techblog-content -.-> techblog
+```
